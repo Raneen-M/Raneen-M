@@ -7,4 +7,4 @@ Tech I use
 Python Java JavaScript HTML5 Git C#
 
 Fun fact
-[I know how to juggle!]
+I know how to juggle!
